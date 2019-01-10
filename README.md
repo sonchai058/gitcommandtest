@@ -1,4 +1,7 @@
 # gitcommandtest
+ddd
 gitcommandtest on macos
-edit on sublime text.
+sadasdasd
+sadasdedit on sublime text.
 Commit new file
+asdasdsad
